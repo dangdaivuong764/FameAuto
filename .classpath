@@ -25,14 +25,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/dangd/.m2/repository/com/jayway/restassured/rest-assured/2.3.0/rest-assured-2.3.0.jar" sourcepath="C:/Users/dangd/.m2/repository/com/jayway/restassured/rest-assured/2.3.0/rest-assured-2.3.0-sources.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="com.jayway.restassured"/>
-			<attribute name="maven.artifactId" value="rest-assured"/>
-			<attribute name="maven.version" value="2.3.0"/>
-			<attribute name="maven.scope" value="compile"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
